@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF6570F-9DAA-41B5-9592-F22BE96EC7F6}|lab6\\lab6.fsproj|c:\\users\\romai\\source\\repos\\fsharp\\.vs\\lab4\\lab6\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{3DF6570F-9DAA-41B5-9592-F22BE96EC7F6}|lab6\\lab6.fsproj|solutionrelative:lab6\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C24BDACD-E292-413A-A95D-63BCB8FCEF5B}|lab5\\lab5.fsproj|c:\\users\\romai\\source\\repos\\fsharp\\.vs\\lab4\\lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{C24BDACD-E292-413A-A95D-63BCB8FCEF5B}|lab5\\lab5.fsproj|solutionrelative:lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB7C109-FC3E-4CB6-880E-D536DA97D5A8}|lab4\\lab4.fsproj|c:\\users\\romai\\source\\repos\\fsharp\\.vs\\lab4\\lab4\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{8CB7C109-FC3E-4CB6-880E-D536DA97D5A8}|lab4\\lab4.fsproj|solutionrelative:lab4\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab6\\Program.fs",
+              "RelativeDocumentMoniker": "lab6\\Program.fs",
+              "ToolTip": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab6\\Program.fs",
+              "RelativeToolTip": "lab6\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T20:27:16.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab5\\Program.fs",
+              "RelativeDocumentMoniker": "lab5\\Program.fs",
+              "ToolTip": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab5\\Program.fs",
+              "RelativeToolTip": "lab5\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T20:11:30.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab4\\Program.fs",
+              "RelativeDocumentMoniker": "lab4\\Program.fs",
+              "ToolTip": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab4\\Program.fs",
+              "RelativeToolTip": "lab4\\Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-07T19:50:50.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
