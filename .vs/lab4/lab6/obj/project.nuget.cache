@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HO/tu4SC8aQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romai\\source\\repos\\Fsharp\\.vs\\lab4\\lab6\\lab6.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romai\\.nuget\\packages\\fsharp.core\\8.0.400\\fsharp.core.8.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
